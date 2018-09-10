@@ -1,0 +1,14 @@
+##############################################################################################################################################################################################################################################################################################
+#############################################       FUTURE WORK AND COLLABORATION             #################################################
+###############################################################################################################################################
+###############################################################################################################################################
+I am available for future work, any kind of advice and improvement.
+
+In particular I would like to improve the HashtagSplit algorithm. I would like to add the use of a list of words linked to a value. This value must represent the degree of frequency of that given word, that is, how much is commonly used compared to others. This implementation is useful to allow a less ambiguous and safer split, discarding all those words found in the vocabulary contained in the hashtag uncommon and therefore probably not contextualized to hasthag.
+
+I would improve the HiddenBadWord algorithm too, allowing the recognition of other methods of concealment such as "a s s h o l e", "as .... .... le" (with space beetwen) etc. etc.
+
+For any clarification, for advice, for collaborations contact me at email --->   ferrilorenzo62@gmail.com
+
+
+Thank you very much!
