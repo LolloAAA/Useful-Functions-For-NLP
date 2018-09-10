@@ -2,7 +2,7 @@ def deleteLaughter(sentence):
   #Split sentence in words
   lst = sentence.split()
 
-  #List of letters most used in the laughter
+  #List of letters most used in the laughs
   vowels = ["a", "e", "i", "o", "u"]
 
   #For each word in the sentence...
